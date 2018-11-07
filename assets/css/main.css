@@ -2885,6 +2885,10 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+	.project {
+		height: 225px;
+	}
+
 /* Header */
 
 	#header {
@@ -2892,7 +2896,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
-		background-image: url("../../images/sea-2755858_1920.jpg");
+		background-image: url("../../images/transfer-2601278_1920.jpg");
 		background-position: center;
 		background-size: cover;
 		overflow: hidden;
@@ -3198,7 +3202,9 @@ input, select, textarea {
 					margin-left: 0;
 					padding: 0;
 				}
-		
+	.img-1 {
+		height: 500px;
+	}
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
