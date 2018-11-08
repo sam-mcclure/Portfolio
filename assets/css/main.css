@@ -2379,7 +2379,6 @@ input, select, textarea {
 
 			.form-container {
 				background: white;
-				width: 900px;
 				border-radius: 3px;
 			}
 
@@ -3518,7 +3517,6 @@ input, select, textarea {
 .skills {
 	list-style: none;
 	background-color: white;
-	width: 1000px;
 	text-align: center;
 }
 
