@@ -3531,3 +3531,8 @@ input, select, textarea {
 i {
 	font-size: 100px;
 }
+
+.button-icon {
+	font-size: 15px;
+	color: white;
+}
